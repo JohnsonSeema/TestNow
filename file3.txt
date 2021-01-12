@@ -1,2 +1,4 @@
 my new branch content
 my changes to file3 on local
+file2checking fetch command
+This anf that
